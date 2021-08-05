@@ -1,0 +1,2 @@
+# Spammer
+npm i nodemailer
