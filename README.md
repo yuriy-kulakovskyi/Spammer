@@ -1,5 +1,9 @@
 # Spammer
 Download nodemailer:
 ```
-nom i nodemailer
+npm i nodemailer
+```
+Run spammer:
+```
+node app.js
 ```
